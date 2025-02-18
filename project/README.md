@@ -1,8 +1,8 @@
-# ÉcoVoiturage 🌱
+# ÉcoVoiturage 
 
 Une plateforme de covoiturage moderne et écologique, conçue pour mettre en relation les conducteurs de véhicules écologiques avec des passagers partageant les mêmes valeurs environnementales.
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 
 - **Recherche de Trajets**
   - Recherche avancée par ville de départ/arrivée et date
@@ -24,7 +24,7 @@ Une plateforme de covoiturage moderne et écologique, conçue pour mettre en rel
   - Calcul de l'impact environnemental
   - Communauté éco-responsable
 
-## 🛠️ Technologies Utilisées
+## 🛠 Technologies Utilisées
 
 - **Frontend**
   - React 18
@@ -33,7 +33,7 @@ Une plateforme de covoiturage moderne et écologique, conçue pour mettre en rel
   - React Router
   - Lucide React (icons)
 
-## 🚦 Pour Commencer
+##  Pour Commencer
 
 ### Prérequis
 
@@ -67,7 +67,7 @@ L'application sera accessible à l'adresse `http://localhost:5173`
 - `npm run preview` - Prévisualise la version de production
 - `npm run lint` - Vérifie le code avec ESLint
 
-## 🎨 Structure du Projet
+##  Structure du Projet
 
 ```
 eco-carpooling/
@@ -80,7 +80,7 @@ eco-carpooling/
 └── ...
 ```
 
-## 🌐 Déploiement
+##  Déploiement
 
 L'application est déployée sur Netlify. Pour déployer votre propre instance :
 
@@ -89,7 +89,7 @@ L'application est déployée sur Netlify. Pour déployer votre propre instance :
 3. Configurez les variables d'environnement nécessaires
 4. Déployez !
 
-## 🤝 Contribution
+##  Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à :
 
@@ -99,15 +99,15 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 4. Push sur la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrir une Pull Request
 
-## 📝 License
+##  License
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👥 Auteurs
 
-- [Votre nom] - *Développeur principal* - [@votreGithub](https://github.com/votreGithub)
+- Grégoire Bonin - *Développeur principal* - [@votreGithub](https://github.com/votreGithub)
 
-## 🙏 Remerciements
+##  Remerciements
 
 - Tous les contributeurs qui participent à l'amélioration du projet
 - La communauté open-source pour ses outils et ressources incroyables
@@ -115,4 +115,3 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ---
 
-Fait avec ❤️ pour un transport plus vert 🌱
