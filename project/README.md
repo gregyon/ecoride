@@ -103,7 +103,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
-## 👥 Auteurs
+##  Auteurs
 
 - Grégoire Bonin - *Développeur principal* - [@votreGithub](https://github.com/votreGithub)
 
