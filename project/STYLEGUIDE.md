@@ -1,4 +1,4 @@
-# Charte Graphique ÉcoVoiturage 🎨
+# Charte Graphique ÉcoVoiturage 
 
 ## 1. Logo et Identité
 
