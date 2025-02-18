@@ -24,7 +24,7 @@ Une plateforme de covoiturage moderne et écologique, conçue pour mettre en rel
   - Calcul de l'impact environnemental
   - Communauté éco-responsable
 
-## 🛠 Technologies Utilisées
+##  Technologies Utilisées
 
 - **Frontend**
   - React 18
