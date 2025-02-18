@@ -24,7 +24,6 @@
 └──────────────────────────────────────┘
 ```
 
-**Mockup Preview**: [Hero Section Desktop](https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?w=1200&h=800)
 
 ### 2. Liste des Trajets
 ```
@@ -45,7 +44,6 @@
 └──────────────────────────────────────┘
 ```
 
-**Mockup Preview**: [Rides List Desktop](https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?w=1200&h=800)
 
 ### 3. Détails du Trajet
 ```
@@ -69,7 +67,6 @@
 └──────────────────────────────────────┘
 ```
 
-**Mockup Preview**: [Ride Details Desktop](https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?w=1200&h=800)
 
 ## Mobile (≤768px)
 
@@ -93,7 +90,6 @@
 └────────────────┘
 ```
 
-**Mockup Preview**: [Hero Section Mobile](https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?w=375&h=812)
 
 ### 2. Liste des Trajets Mobile
 ```
@@ -117,7 +113,6 @@
 └────────────────┘
 ```
 
-**Mockup Preview**: [Rides List Mobile](https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?w=375&h=812)
 
 ### 3. Détails du Trajet Mobile
 ```
@@ -139,7 +134,6 @@
 └────────────────┘
 ```
 
-**Mockup Preview**: [Ride Details Mobile](https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?w=375&h=812)
 
 ## Éléments Communs
 
