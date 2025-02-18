@@ -1,4 +1,4 @@
-# Diagrammes UML ÉcoVoiturage 📊
+# Diagrammes UML ÉcoVoiturage 
 
 ## 1. Diagramme de Classes
 
