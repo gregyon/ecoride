@@ -1,4 +1,4 @@
-# Maquettes ÉcoVoiturage 🎨
+# Maquettes ÉcoVoiturage 
 
 ## Desktop (≥1024px)
 
@@ -184,4 +184,3 @@
 
 ---
 
-Ces maquettes servent de guide pour l'implémentation et doivent être suivies en conjonction avec la charte graphique pour maintenir une expérience utilisateur cohérente.
